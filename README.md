@@ -14,3 +14,5 @@ At least I learned I needed a lot to learn.
 puts "this is code"
 if this then that
 ```
+## The day it all came clear
+Just click the notion and mix the potion (Strangers) with a [quick access to film here](https://vimeo.com/220277207).
