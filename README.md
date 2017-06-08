@@ -10,7 +10,7 @@ Now, I entertain my hippocampus through the articles on github.
 
 At least I learned I needed a lot to learn.
 
-```
+```ruby
 puts "this is code"
 if this then that
 ```
